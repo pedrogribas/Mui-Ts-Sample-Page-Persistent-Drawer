@@ -1,46 +1,50 @@
-# Getting Started with Create React App
+# Welcome to My Project!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple project built with React and Material-UI. It includes a home page, a settings page, a contacts carousel, and an about page.
 
-## Available Scripts
+## Getting Started
 
-In the project directory, you can run:
+To get started with this project, follow these steps:
 
-### `npm start`
+1. Clone this repository to your local machine.
+2. Install the dependencies by running `npm install`.
+3. Start the development server by running `npm start`.
+4. Open your browser and navigate to `http://localhost:3000`.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Home Page
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+The home page is the first page that users will see when they visit your site. It includes a hero section with a background image and a call-to-action button.
 
-### `npm test`
+## Settings Page
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The settings page allows users to update their personal information and preferences. It includes a form with fields for the user's name, email, and password.
 
-### `npm run build`
+## Contacts Carousel
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The contacts carousel is a component that displays a list of contacts with their names and images. It includes a prev button and a next button to navigate through the list.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## About Page
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The about page provides information about your site and your team. It includes a hero section with a background image and a description of your site. It also includes a team section with images and names of your team members.
 
-### `npm run eject`
+## Built With
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* [React](https://reactjs.org/) - A JavaScript library for building user interfaces.
+* [Material-UI](https://material-ui.com/) - A popular React UI framework.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contributing
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+If you'd like to contribute to this project, please submit a pull request.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## License
 
-## Learn More
+This project is licensed under the MIT License.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contact
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+If you have any questions or feedback, please contact me at [pedrogarciaribas@hotmail.com](mailto:pedrogarciaribas@hotmail.com).
+
+## Acknowledgments
+
+* [Material-UI](https://material-ui.com/) - For providing a great React UI framework.
+* [React Router](https://reactrouter.com/) - For providing a simple and powerful routing solution for React.
